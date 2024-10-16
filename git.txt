@@ -2,3 +2,6 @@ text
 
 
 this is the added line
+
+
+This is a commit with a jira key
