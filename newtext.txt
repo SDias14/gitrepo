@@ -1,3 +1,4 @@
 three
 
-JRA-34 #time 1w 2d 4h 30m Total work logged
+
+removed the jira issue key, since we don't have any jira linked to fisheye at this moment. 
