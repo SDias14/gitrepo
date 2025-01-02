@@ -1,0 +1,20 @@
+diff --git a/README.md b/README.md
+index f2dc910..4b1baaa 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,5 @@
+ this is a study project
+ 
+ not a simple one
++
++this is the line where the difference lies
+diff --git a/git.txt b/git.txt
+index 84d0161..2a0aacd 100644
+--- a/git.txt
++++ b/git.txt
+@@ -9,3 +9,5 @@ This is a commit with a jira key
+ 
+ 
+ This is the Jira key : JIR-123
++
++This is the new line 

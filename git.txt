@@ -9,3 +9,5 @@ This is a commit with a jira key
 
 
 This is the Jira key : JIR-123
+
+This is the new line 
